@@ -1,2 +1,2 @@
 # batch-test
-learning GIT using batch files
+Learning GIT using batch files
